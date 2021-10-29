@@ -6,3 +6,6 @@ https://docs.google.com/document/d/1qJEIbtrytGFwrN4zn3Xtn2phm6g-vvsWzzqHToRu_-4/
 
 Link para usar Token
 https://www.youtube.com/watch?v=kHkQnuYzwoo
+
+Nuevo Token generado
+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
